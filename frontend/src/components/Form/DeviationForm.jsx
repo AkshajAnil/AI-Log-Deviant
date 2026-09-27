@@ -381,11 +381,7 @@ export default function DeviationForm() {
             className="flex items-center gap-2 rounded-md border border-green-200 bg-green-50 px-3 py-2.5 text-sm text-green-700"
           >
             <CircleCheckBig className="w-4 h-4" />
-            <span>
-              Saved! Your deviation has been stored as record #{savedId}. The
-              details stay on screen so you can review them — click Reset Form
-              whenever you&apos;re ready to start a new one.
-            </span>
+            <span>Saved! Your deviation has been stored safely.</span>
           </div>
         )}
 

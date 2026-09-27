@@ -382,7 +382,9 @@ export default function DeviationForm() {
           >
             <CircleCheckBig className="w-4 h-4" />
             <span>
-              Deviation saved as record #{savedId}. Review remains on screen until you reset.
+              Saved! Your deviation has been stored as record #{savedId}. The
+              details stay on screen so you can review them — click Reset Form
+              whenever you&apos;re ready to start a new one.
             </span>
           </div>
         )}

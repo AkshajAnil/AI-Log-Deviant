@@ -21,10 +21,10 @@ Built around a two-node LangGraph agent (`extract` → `analyze`) running on Gro
 
 | Layer | Choice |
 | --- | --- |
-| Frontend | React 19, Vite, Redux Toolkit, Tailwind CSS 4, oxlint |
-| Backend | Python 3.10, FastAPI, SQLAlchemy |
-| Database | PostgreSQL (`Log-Deviation`) — MySQL works by changing `DATABASE_URL` |
-| Agent | LangGraph, LangChain, Groq (`openai/gpt-oss-120b`) |
+| Frontend | React + Redux |
+| Backend | Python + FastAPI |
+| AI | LangGraph + Groq |
+| Database | PostgreSQL / MySQL |
 
 ---
 
